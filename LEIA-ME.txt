@@ -1,0 +1,8 @@
+SYNTAX AI - Landing page do Operário.IA
+
+index.html  -> a página completa (logo já embutida, é só abrir no navegador ou hospedar)
+assets/     -> logo original e o ícone com fundo transparente
+
+Para colocar seu link da Kiwify: abra index.html em um editor de texto,
+procure por "EDITE AQUI" e cole o link em MAIN (e, se quiser, em starter, pro e business).
+Para publicar: envie o index.html para Netlify, Vercel, Cloudflare Pages ou qualquer hospedagem.
